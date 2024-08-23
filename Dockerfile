@@ -15,6 +15,7 @@ RUN   apk --no-cache add \
       curl \
       nodejs \
       npm \
+      mongodb-tools \
       supervisor \
       tzdata
 
